@@ -37,7 +37,7 @@
         {
           "type": "git",
           "url": "https://github.com/sir-maniac/GreenWithEnvy2.git",
-          "disable-submodules": true,
+          "disable-submodules": true
         }
       ]
     }
