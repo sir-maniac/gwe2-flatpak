@@ -1,6 +1,6 @@
 {
-  "app-id": "com.leinardi.gwe",
-  "command": "gwe",
+  "app-id": "io.github.sir_maniac.gwe2",
+  "command": "gwe2",
   "runtime": "org.gnome.Platform",
   "runtime-version": "46",
   "sdk": "org.gnome.Sdk",
